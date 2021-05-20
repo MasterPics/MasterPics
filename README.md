@@ -14,8 +14,6 @@
 
 <h2 align="center"><b>Fun Facts🤓 About MasterPic's Crew</b></h2>
 
----
-
 😅 `박지민/기획`: 맥북 쓴지 6년만에 에어팟이 자석처럼 붙는다는 사실을 불과 그저께 깨달음. 현재 뿌듯해하면서 에어팟 붙여놓고 줄 이어폰 사용하는 중.
 
 😎 `김영빈/서버`: 팀장들의 팀장 #팀팀장
@@ -40,8 +38,6 @@
 
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 
----
-
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -56,6 +52,5 @@
 
 <h2 align="center"><b>☎️ Contact Us</b></h2>
 
----
-
 <h4 align="center"><b>masterpics.official@gmail.com</b> </h4>
+
