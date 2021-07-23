@@ -16,7 +16,7 @@
 
 😅 `박지민/기획`: 맥북 쓴지 6년만에 에어팟이 자석처럼 붙는다는 사실을 불과 그저께 깨달음. 현재 뿌듯해하면서 에어팟 붙여놓고 줄 이어폰 사용하는 중.
 
-😎 `김영빈/서버`: 팀장들의 팀장 #팀팀장
+😎 `김영빈/서버`: 팀장들의 팀장
 
 🧦 `김서현/서버`: 이대역 이디야에서 양말 짝짝이(왼: 흰, 오: 아이보리)로 신고 벽에 기대서 자다가 깸
 
@@ -46,11 +46,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-
-
-
-
 <h2 align="center"><b>☎️ Contact Us</b></h2>
 
 <h4 align="center"><b>masterpics.official@gmail.com</b> </h4>
-
